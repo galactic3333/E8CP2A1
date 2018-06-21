@@ -1,0 +1,5 @@
+David 3.6
+Gonzalo 4.2
+Mai 7.6
+JP 10.0
+Gabriel 4.0
